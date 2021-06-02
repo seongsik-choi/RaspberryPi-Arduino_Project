@@ -59,8 +59,8 @@
 ----
 
 **7) Acrtion**
-
-![image](https://user-images.githubusercontent.com/76051264/102713895-9696cb00-430e-11eb-9466-34b7e8fe031c.png)
 - 내부 미세먼지를 1번으로 하여 TEXT LCD 첫 번째 줄에 출력에 성공
 - 외부 미세먼지를 2번으로 하여 TEXT LCD 두 번째 줄에 출력에 성공
-- 미세먼지 농도에 따른 창문 및 환풍기 동작을 성공
+- 미세먼지 농도에 따른 창문 및 환풍기 동작을 성공  
+![image](https://user-images.githubusercontent.com/76051264/102713895-9696cb00-430e-11eb-9466-34b7e8fe031c.png)
+
