@@ -46,8 +46,10 @@
 ---
 
 **5) Function Diagram**
-
+  -  All)  
 ![image](https://user-images.githubusercontent.com/76051264/102713811-08224980-430e-11eb-98f4-9b99b3f0515d.png)  
+
+  - Detail)  
 ![image](https://user-images.githubusercontent.com/76051264/102713812-0a84a380-430e-11eb-9163-76980f6a9b71.png)  
 ----
 
